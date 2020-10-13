@@ -1,0 +1,24 @@
+{
+  "name": "Christopher Brown",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Christopher Brown personal page",
+  "icons": [
+    {
+      "src": "assets/image.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/image.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
