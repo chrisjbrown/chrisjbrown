@@ -6,19 +6,14 @@
   "description": "Christopher Brown personal page",
   "icons": [
     {
-      "src": "chrisjbrown/assets/image.ico",
+      "src": "chrisjbrown/assets/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "chrisjbrown/assets/image.png",
+      "src": "chrisjbrown/assets/me.png",
       "sizes": "150x150",
       "type": "image/png"
-    }
-  ],
-  "related_applications": [
-    {
-      "platform": "web"
     }
   ]
 }
